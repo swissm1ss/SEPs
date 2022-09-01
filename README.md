@@ -19,6 +19,7 @@ Once assessed, a SEP is moved into `Feasibility` and a Core Contributor is assig
 
 Once the SEP has been implemented by either the protocol DAO or the SEP author and relevant parties, the SEP is assigned the `Implemented` status. There is a 500 sUSD bounty for proposing a SEP that reaches the `Implemented` phase.
 
+
 # SEP Statuses
 
 - **Draft** - The initial state of a new SEP before the Soft Council and core contributors have assessed it.
